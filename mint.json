@@ -54,7 +54,23 @@
       "pages": [
         "introduction",
         "quickstart",
+        "core_concepts",
         "development"
+      ]
+    },
+    {
+      "group": "Core Concepts",
+      "pages": [
+        "core-concepts/flows",
+        "core-concepts/auth-user-permissions",
+        "core-concepts/execution-mode",
+        "core-concepts/interactive"
+      ]
+    },
+    {
+      "group": "Guides",
+      "pages": [
+        "guides/self_hosting"
       ]
     },
     {
